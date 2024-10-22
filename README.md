@@ -6,8 +6,6 @@ We have utilized the following *HuggingFace Spaces*:
 - `Nymbo/Virtual-Try-On`, @ [HugginFace Space](https://huggingface.co/spaces/Nymbo/Virtual-Try-On).
 - `Nymbo/Mistral-Small-22B`, @ [HugginFace Space](https://huggingface.co/spaces/Nymbo/Mistral-Small-22B).
 
-## Table of Contents
-
 ### Prerequisites
 Before you begin, ensure you have the following:
 
@@ -88,6 +86,7 @@ Under the *Ngork details*, copy the `URL` from in-front of `Forwarding` and set 
 
 *Note: With this command, your local server will be accessible to everyone.*
 
+*Everytime you restart your `ngrok server`, new `url` will be generated. So, don't forget to update the `env` and `Twilio Sandbox Configuration`. 
 
 ## Run the Application
 
@@ -105,9 +104,9 @@ Under the *Ngork details*, copy the `URL` from in-front of `Forwarding` and set 
 
 ## How to Use?
 
-- After setting up all environment variables, and twilio account
+- After setting up all environment variables, and twilio account.
 - Open Twilio chat on whatsapp, and type "Hi" or send an image.
-- Share your image or someone's else
+- Share your image or someone's else.
 - Share a garment image you want to try-on.
 
 Thant's all, it is that simple!!

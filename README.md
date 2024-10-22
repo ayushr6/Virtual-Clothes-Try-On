@@ -90,16 +90,16 @@ Under the *Ngork details*, copy the `URL` from in-front of `Forwarding` and set 
 
 ## Run the Application
 
-### Flask Application
-
-```
-    python app.py
-```
-
 ### Ngrok server
 
 ```
     ngrok http 8080
+```
+
+### Flask Application
+
+```
+    python app.py
 ```
 
 ## How to Use?

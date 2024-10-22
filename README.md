@@ -99,7 +99,7 @@ Under the *Ngork details*, copy the `URL` from in-front of `Forwarding` and set 
 ### Ngrok server
 
 ```
-    ngrook http 8080
+    ngrok http 8080
 ```
 
 ## How to Use?

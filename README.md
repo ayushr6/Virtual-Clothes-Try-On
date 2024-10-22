@@ -1,6 +1,6 @@
 # Virtual Try-On Assistant
 
-This project is a Flask-based application that integrates Twilio for messaging and Gradio for virtual try-on functionality. Users can upload images of themselves and garments, and the application will perform a virtual try-on, sending the result back via WhatsApp.
+This project is a Flask-based application that integrates **Twilio** for *messaging* and **Gradio** for *virtual try-on functionality*. Users can upload images of themselves and garments, and the application will perform a virtual try-on, sending the result back via **WhatsApp**.
 
 We have utilized `Nymbo/Virtual-Try-On`, available on [HugginFace Space](https://huggingface.co/spaces/Nymbo/Virtual-Try-On).
 
